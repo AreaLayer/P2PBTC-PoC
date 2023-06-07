@@ -37,5 +37,5 @@ npm install P2PBTC-PoC
 ### Roadmap
 
 - [x] Released PoC
-- [ ] Testnet
-- [ ] Run application
+- [x] Testnet
+- [x] Run application
