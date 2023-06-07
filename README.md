@@ -6,7 +6,7 @@ Simple Proof of Concept on P2P BTC
 ### How Works?
 
 
-- Both buyer and seller connects via relay or ION
+- Both buyer and seller connects via relay
 
 - After the parties agree in agremment in close bussiness
 
