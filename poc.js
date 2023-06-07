@@ -1,6 +1,12 @@
 // Import necessary libraries
 const Nostr = require('nostr-tools');
 const LightningClient = require('LDK-Node-js');
+const network = bitcoin.networks.testnet;
+
+//Add settings Node Lightning
+const host = new host
+const post = new post
+const tls.cert = new tls.cert
 
 // Initialize Nostr and Lightning Network clients
 const nostr = new relay(Damus);
