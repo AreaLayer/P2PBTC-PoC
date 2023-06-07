@@ -3,7 +3,7 @@ const Nostr = require('nostr-tools');
 const LightningClient = require('LDK-Node-js');
 
 // Initialize Nostr and Lightning Network clients
-const nostr = new relay(wss://arealayer.com);
+const nostr = new relay(Damus);
 const lightning = new LightningClient(MyNode);
 
 // Specify the buyer's and seller's Lightning Network node information
