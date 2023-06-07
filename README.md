@@ -19,11 +19,16 @@ Simple Proof of Concept on P2P BTC
 Pre requisite
 
 - LDK
+- Lightning Node (testnet mode) 
 - Nostr
 - Git
 - NPM
 
-You can add toml in your Cargo.toml
+## Steps
+
+- Git clone repository
+- NPM install
+- Change TLS.cert or API
 
 ```nppm
 npm install P2PBTC-PoC
