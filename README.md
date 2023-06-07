@@ -1,4 +1,4 @@
-# P2P BTC-PoC
+# P2P BTC (PoC)
 
 Simple Proof of Concept on P2P BTC
 
