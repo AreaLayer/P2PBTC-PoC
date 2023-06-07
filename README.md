@@ -25,4 +25,4 @@ npm install P2PBTC-PoC
 
 - [x] Released PoC
 - [ ] Testnet
-- [] Run application
+- [ ] Run application
