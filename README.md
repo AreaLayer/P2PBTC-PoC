@@ -33,9 +33,3 @@ Pre requisite
 ```nppm
 npm install P2PBTC-PoC
 ```
-
-### Roadmap
-
-- [x] Released PoC
-- [x] Testnet
-- [x] Run application
