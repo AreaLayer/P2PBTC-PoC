@@ -34,6 +34,6 @@ Pre requisite
 npm install P2PBTC-PoC
 ```
 
-## Demo Video
+## Demo PoC with P2P BTC demonstraction
 
 ![Demo video](https://github.com/AreaLayer/P2PBTC-PoC/blob/main/demo-video/test3.gif)
