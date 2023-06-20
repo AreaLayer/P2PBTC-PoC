@@ -1,1 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>P2P BTC</title>
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>P2P BTC</h1>
+    <form>
+      <label for="name">Name:</label>
+      <input type="text" id="name" name="name" optional>
 
+      <label for="email">Type of FIAT currency</label>
+      <input type="FIAT" id="FIAT" name="fiat" required>
+
+      <label for="Nostr">Npub:</label>
+      <input type="npub" id="npub" ame="Npub" required>
+
+      <label for="plan">Select a price:</label>
+      <select id="plan" name="price" required>
+        <option value="">Choose a price</option>
+        <option value="basic">BTC 240000  USD</option>
+        <option value="pro"> BTC 20000 USDc</option>
+        <option value="enterprise">BTC 40000 USDT</option>
+      </select>
+        
+        <label for="plan">Select a payment:</label>
+        <select id="payment" name="payment" required>
+          <option value="">Choose a form of payment</option>
+          <option value="USDC">Address</option>
+          <option value="USDT">Adress</option>
+          <option value="Bank">Bank</option>
+          
+      </select>
+
+      <input type="submit" value="Subscribe">
+    </form>
+  </div>
+</body>
+</html>
