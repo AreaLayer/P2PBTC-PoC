@@ -36,4 +36,4 @@ npm install P2PBTC-PoC
 
 ## Demo Video
 
-[!Demo video](https://github.com/AreaLayer/P2PBTC-PoC/blob/main/demo-video/test3.gif)
+![Demo video](https://github.com/AreaLayer/P2PBTC-PoC/blob/main/demo-video/test3.gif)
